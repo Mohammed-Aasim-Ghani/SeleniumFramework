@@ -1,0 +1,9 @@
+com\SeleniumsFrameworks\Pageobject\Login_Pageobject.class
+com\SeleniumsFrameworks\Testcase\TC_LoginDDT_002.class
+com\SeleniumsFrameworks\Pageobject\AddCustomerPage_Pageobject.class
+com\SeleniumsFrameworks\Testcase\BaseClass.class
+com\SeleniumsFrameworks\Utilities\Reporting.class
+com\SeleniumsFrameworks\Testcase\TC_AddCustomerTest_003.class
+com\SeleniumsFrameworks\Testcase\TC_LoginTest.class
+com\SeleniumsFrameworks\Utilities\ReadConfig.class
+com\SeleniumsFrameworks\Utilities\XLUtils.class
